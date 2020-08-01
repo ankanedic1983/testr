@@ -1,0 +1,2 @@
+# testr
+povezuje rstudio
